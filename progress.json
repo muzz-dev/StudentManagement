@@ -1,0 +1,25 @@
+[
+  {
+    "28-04-2022": {
+      "Teacher": {
+        "Teacher Login": true,
+        "Add Teacher": true
+      },
+      "Student": {
+        "View Students": true
+      }
+    },
+
+    "29-04-2022": {
+      "Teacher": {
+        "Teacher Login with Shared preference": false,
+        "Logout": false
+      },
+      "Student": {
+        "Add Students": false,
+        "Update/Delete Student": false,
+        "Search": false
+      }
+    }
+  }
+]

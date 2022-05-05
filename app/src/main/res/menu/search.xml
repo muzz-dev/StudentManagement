@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search_bar"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/logout" android:title="Logout"  app:showAsAction="withText"/>
+    <item android:id="@+id/profilepic" android:title="View Profile"  app:showAsAction="withText"/>
+</menu>
